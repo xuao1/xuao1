@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi 👋, my name is xuao
 
-<!--
-**xuao1/xuao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/xuao1/xuao1/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
-Here are some ideas to get you started:
+- 🔭 Now I am studying Computer Science at **[USTC](http://english.ustc.edu.cn/)**.
+- 🌱 I’m currently learning **TVM**
+- 📫 How to reach me: xuao123@mail.ustc.edu.cn
+- 😄 Pronouns: He/His
+- 🕊️ Blog: https://xuao.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Online Presence
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xuao1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/xuao90900468)
+
+<div>
+  <a href="https://github.com/xuao1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuao1&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuao1&layout=compact&langs_count=6"/>
+</div>
+
