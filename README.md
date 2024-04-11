@@ -2,11 +2,11 @@
 
 <img align="right" src="https://github.com/xuao1/xuao1/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
-- 🔭 Now I am studying Computer Science at **[USTC](http://english.ustc.edu.cn/)**.
+- 🔭 Now I am studying Computer Science at **[USTC](https://www.ustc.edu.cn/)**.
 - 🌱 I’m currently learning **TVM**
 - 📫 How to reach me: xuao123@mail.ustc.edu.cn
 - 😄 Pronouns: He/His
-- 🕊️ Blog: https://xuao.me
+- 🕊️ Blog: https://xuao1.github.io/
 
 ##### Online Presence
 
