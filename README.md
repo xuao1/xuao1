@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github.com/xuao1/xuao1/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
 
-- 🔭 Now I am studying Computer Science at **[USTC](https://www.ustc.edu.cn/)**.
-- 🌱 I’m currently learning **TVM**
-- 📫 How to reach me: xuao123@mail.ustc.edu.cn
+- 🔭 Now I am studying Computer Science at **[EPCC](http://epcc.sjtu.edu.cn/))**.
+- 🌱 I’m currently learning **GPU** and **LLM**
+- 📫 How to reach me: xuao123@sjtu.edu.cn
 - 😄 Pronouns: He/His
 - 🕊️ Blog: https://xuao1.github.io/
 
